@@ -1,0 +1,8 @@
+/target
+companion/*/build/
+companion/*/.gradle/
+.mortar/
+.DS_Store
+
+# The Windows build is attached to each release, not committed.
+/release/

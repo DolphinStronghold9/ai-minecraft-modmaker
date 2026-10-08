@@ -1,0 +1,7 @@
+name: Mortar
+version: '1.11.2'
+main: dev.mortar.paper.MortarPlugin
+api-version: '26.1'
+description: Lets the mortar terminal agent build on this server for operators, with ghost previews only they can see.
+authors: [DolphinStronghold9]
+website: https://github.com/DolphinStronghold9/ai-minecraft-modmaker

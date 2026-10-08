@@ -1,0 +1,8 @@
+[package]
+name = "mortar-core"
+description = "Block changes, ghosts, batching and the undo journal for Mortar"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
